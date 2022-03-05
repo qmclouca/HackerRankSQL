@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="fb53ea45-aaee-488c-9d5a-e215e16c7539" name="HackerRank Mapping">
+      <data-sources db="dccc058f-e222-4baa-94d4-7c30160e08a9" ddl="f1454889-7a90-4120-be47-423ca6b7703e" />
+    </mapping>
+  </component>
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="f1454889-7a90-4120-be47-423ca6b7703e" />
+          <option name="name" value="Microsoft SQL Server LocalDB - HackerRank (DDL)" />
+          <option name="languageId" value="TSQL" />
+          <option name="urls">
+            <array>
+              <option value="file://$PROJECT_DIR$" />
+            </array>
+          </option>
+          <option name="scriptOptions">
+            <map>
+              <entry key="UseCompactDef" value="1" />
+            </map>
+          </option>
+          <option name="scopes">
+            <map>
+              <entry key="" value="" />
+            </map>
+          </option>
+        </State>
+      </list>
+    </option>
+  </component>
+</project>
